@@ -1,6 +1,6 @@
 # SecureChatC
 
-SecureChatC is a multi-client chat server application in C, featuring message encryption, chat history management, and support for private/group messaging. It showcases network programming, threading, and security basics.
+EncryptChat is a multi-client chat server application in C, featuring message encryption, chat history management, and support for private/group messaging. It showcases network programming, threading, and security basics.
 
 ## Features
 
